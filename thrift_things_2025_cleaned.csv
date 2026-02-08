@@ -1,0 +1,180 @@
+﻿item_id,month,product_name,brand_name,category,dimensions,posted_price,sold_price,sold_to,is_sold
+1,january,Nike Tech Fleece Joggers,Nike,Pants,32-34 x 36 x 7,800.00,800.00,Jay-ar Santos,1
+2,january,Urban Revivo Pants,Urban,Pants,30-34 x 41.5 x 11,800.00,600.00,Bro,1
+3,january,Umbro Vintage Multipocket Vest ,Umbro,Vest,22 x 25,800.00,600.00,Buyer of idol,1
+4,january,Carharrt FR Longsleeves ,Carharrt,Longsleeves,24 x 30 Sleeves - 24,700.00,600.00,Buyer of idol,1
+5,january,Nike Drifit Shirt,Nike,Shirt,21 x 28,500.00,500.00,Shaun Guiao,1
+6,january,Under Armour Mid Logo Drifit Shirt,Under Armour,Shirt,22 x 28,500.00,400.00,Viperic,1
+7,january,Levis 514 Pants,Levis,Pants,36-38 x 43 x 9,1000.00,700.00,Buyer of idol,1
+8,january,Nike Drifit Pants,Nike,Pants,30-34 x 40 ,550.00,400.00,Concepcion Facuri Fabro,1
+9,january,Burberry Black Jeans,Burberry,Pants,34 x 39 x 8,800.00,400.00,Concepcion Facuri Fabro,1
+10,january,Nike Two Tone Polo Shirt Red/Grey ,Nike,Polo,22 x 30,800.00,600.00,Brian Reyes,1
+11,january,J.Lindeberg Polo Shirt ,J.Lindeberg,Polo,20 x 27,900.00,800.00,Morphyl Abonalla,1
+12,january,Nike Two Tone Polo Shirt Red/White ,Nike,Polo,22 x 29,800.00,600.00,Luisa Taruc,1
+13,january,Tommy Hilfiger Harrington Jacket ,Tommy Hilfiger,Jacket,26 x 27 Sleeves - 23,900.00,800.00,Jason Wayet,1
+14,january,Nike Run Drifit Shirt ,Nike,Shirt,20 x 26,500.00,500.00,Dennis Mendoza,1
+15,january,Levis Denim Bomber Jacket,Levis,Jacket,20.5 x 26,1500.00,1000.00,Buyer of idol,1
+16,january,Ralph Lauren Quinted Jacket,Ralph Lauren,Jacket,21 x 25-27,1200.00,1200.00,Buyer of idol,1
+17,january,Levis 80s Tag Vintage Chore Jacket,Levis,Jacket,25 x 30,2000.00,1300.00,Patrick Cruz,1
+18,january,Uniqlo Heattech Trousers ,Uniqlo,Pants,34 x 39 x 8,600.00,500.00,Buyer of idol,1
+19,january,Uniqlo Navy Blue Ankle Pants,Uniqlo,Pants,32-34 x 37 x 7,500.00,450.00,LLoyed Leppago,1
+20,january,Callaway Golf Short,Callaway,Shorts,34 x 19 x 11,600.00,600.00,Buyer of idol,1
+21,january,Quiksilver Chino Shorts ,Quiksilver,Shorts,34 x 21 x 11,400.00,400.00,Jefferson Lagman,1
+22,january,Volcom Shorts,Volcom,Shorts,36 x 22.5 x 10,450.00,400.00,Jefferson Lagman,1
+23,january,Adidas Big Logo Sweatpants,Adidas,Pants,32-36 x 40 x 7,700.00,,,0
+24,january,Lululemon Athletica Shorts,Lululemon,Shorts,32 x 22 x 12,600.00,,,0
+25,february,Nike Drifit Shorts,Nike,Shorts,30-36 x 22 x 13,400.00,500.00,Shaun Guiao,1
+26,february,Under Armour Drifit Sleeveless Shirt,Under Armour,Shirt,20.5 x 30,550.00,500.00,Sebastian Zeus,1
+27,february,Tommy Hilfiger Polo Shirt,Tommy Hilfiger,Polo,21 x 30-32,650.00,650.00,Shaun Guiao,1
+28,february,Adidas Cream Sweater,Adidas,Sweater, 22 x 28,900.00,500.00,Bhei,1
+29,february,Ralph Lauren Polo Shirt,Ralph Lauren,Polo, 21 x 29-30,900.00,750.00,Alyssa Loraine,1
+30,february,Ellesse Hoodie,Ellesse,Hoodie, 19.5 x 28,800.00,600.00,Ahr Villa,1
+31,february,Multipocket Vest ,Multipocket,Vest,23 x 25,800.00,700.00,Womp womp,1
+32,february,Patriots NFL Jersey Gilmore,Patriots,Jersey,24 x 29,600.00,550.00,Windton Ninonuevo,1
+33,february,Adidas Climalite Soccer Jersey,Adidas,Jersey,21 x 29,700.00,500.00,Bhei,1
+34,february,Levis Vintage 80s Tag Buttoned Down Longsleeves ,Levis,Longsleeves,21 x 28,900.00,500.00,FB Buyer,1
+35,february,Travis Matthews Embroided Logo Polo Shirt ,Travis,Polo, 22 x 30,600.00,,,0
+36,february,Nike Portugal Away 2018 Soccer Jersey ,Nike,Jersey, 22 x 29.5,1200.00,,,0
+37,february,Under Armour Drifit Shirt,Under Armour,Shirt,23 x 28,600.00,,,0
+38,february,Nike Drifit Polo Shirt ,Nike,Polo,22 x 28,700.00,,,0
+39,february,Adidas Drifit Shirt,Adidas,Shirt,20 x 26,600.00,,,0
+40,february,Nike Running Sky Blue Drifit Shirt,Nike,Shirt,21 x 27,600.00,,,0
+41,february,Champion Shorts ,Champion,Shorts,30-36 x 19 x 12.5,450.00,,,0
+42,march,Columbia Camo Omnitech Jacket ,Columbia,Jacket,22 x 29,1500.00,1380.00,Christopher,1
+43,march,Columbia GRT Multipocket Vest ,Columbia,Vest,25 x 28,900.00,830.00,Raj Milleza,1
+44,march,Nautica Two Tone Halfzip ,Nautica,Jacket,23 x 30,600.00,580.00,Shaun Guiao,1
+45,march,Under Armour Compression Shirt ,Under Armour,Shirt,16 x 26,600.00,480.00,Buyer of idol,1
+46,march,Adidas Juventus Jeep 2020-2021 Soccer Jersey ,Adidas,Jersey,19.5 x 27,1200.00,980.00,Buyer of sean,1
+47,march,Nike Club America Strike Training Jersey ,Nike,Jersey,20 x 27,700.00,480.00,Buyer of idol,1
+48,march,Adidas All over Print Climachill Polo Shirt ,Adidas,Polo,22 x 29,600.00,500.00,Elizar Gatmatian,1
+49,march,Under Armour Heatgear Embroidered Logo Polo Shirt ,Under Armour,Polo,23 x 28,650.00,430.00,Buyer of Idol,1
+50,march,Adidas Terfoil Shorts ,Adidas,Shorts,30-34 x 19,700.00,480.00,Hustlerholic,1
+51,march,Under Armour Gray Polo Shirt,Under Armour,Polo,23 x 29,700.00,580.00,Buyer of idol,1
+52,march,Hunter Multipocket Vest ,Hunter,Vest,23 x 26,700.00,600.00,Emily Garcia,1
+53,march,Nike Drifit Polo Shirt ,Nike,Polo,21 x 27,600.00,600.00,Carousell buyer,1
+54,march,Waggle All over Print Half Zip ,Waggle,Jacket,20 x 26,900.00,,,0
+55,march,Columbia Packable Jacket ,Columbia,Jacket,26 x 26,1500.00,,,0
+56,march,Umbro Tank Top Embroidered Mid Logo ,Umbro,Tank Top,24 x 28,700.00,,,0
+57,march,MLB San Francisco Giants Half Zip Polo Shirt ,Mlb,Polo,22 x 29,700.00,,,0
+58,april,Levis Checkered Flannel ,Levis,Flannel,22 x 28,800.00,700.00,Carousell buyer,1
+59,april,Ralph Lauren Longsleeves,Ralph Lauren,Longsleeves,21 x 31,600.00,500.00,ptc2019,1
+60,april,Polo Jeans Ralph Lauren Zip Up Hoodie ,Polo,Polo,23 x 26,1200.00,1200.00,Buyer of idol,1
+61,april,Tommy Jeans Hoodie ,Tommy Hilfiger,Hoodie,21 x 26,900.00,600.00,Jon del Castillo,1
+62,april,Kaws by Uniqlo Sweater,Kaws,Sweater,24 x 29,900.00,800.00,FB Buyer,1
+63,april,Vintage Tribal Sweater ,Vintage,Sweater,24 x 28,900.00,800.00,welldetailedseller,1
+64,april,Nike Quilted Gorpcore Jacket ,Nike,Jacket,22 x 25,1200.00,900.00,Maro Angelo,1
+65,april,Adidas Climacool Back Embroided Logo Shorts ,Adidas,Shorts,28-34 x 17 x 12,450.00,400.00,Aj hemedez,1
+66,april,Adidas Climacool Front Embroidered Logo Shorts ,Adidas,Shorts,28-34 x 17 x 11,450.00,450.00,Ej boy Amores,1
+67,april,Nike Running Shorts ,Nike,Shorts,30-34 x 17 ,450.00,400.00,Buyer of idol,1
+68,april,Ralph Lauren Chino Cream Pants,Ralph Lauren,Pants,42 x 44 x 9,1200.00,900.00,Cj lalimo,1
+69,april,Nike Solo Swoosh Crewneck,Nike,Crewneck,22 x 26,900.00,800.00,Jaime,1
+70,april,Louis Vuitton (OFF) Graphic Shirt ,Louis,Shirt,24 x 29.5,600.00,,,0
+71,april,Hummel Blue Jersey ,Hummel,Jersey,22 x 29,1000.00,,,0
+72,april,Nautica All Over Print Summer Shorts  ,Nautica,Shorts,36-38 x 19.5 x 12,500.00,,,0
+73,april,Adidas Dark Gray Athletic Shorts,Adidas,Shorts,26-30 x 20 x 12,400.00,,,0
+74,april,Champion Lavender Hoodie Reverse Weave ,Champion,Hoodie,21 x 27,900.00,,,0
+75,may,Ralph Lauren OFF Shirt for Womens ,Ralph Lauren,Shirt,19.5 x 23,700.00,650.00,mae fernandez,1
+76,may,MLB Nike Chicago White Sox Baseball Jersey ,Mlb,Jersey,22.5 x 30.5,500.00,400.00,jthrift,1
+77,may,Ralph Lauren OFF Knitted Vest,Ralph Lauren,Vest,22 x 28,800.00,700.00,Jolo Tamayo,1
+78,may,Adidas Real Madrid Cristiano Ronaldo Soccer Jersey ,Adidas,Jersey,21.5 x 27,500.00,400.00,Buyer of idol,1
+79,may,Lacoste Red Stripes Dress ,Lacoste,Dress,18.5 x 36,800.00,500.00,Maria Carla Evangelista,1
+80,may,Nike Red Stripes Golf Polo ,Nike,Polo,23 x 30,600.00,525.00,Roy Bernard,1
+81,may,Wrangler x AAPE Jeans,Wrangler,Pants,30 x 37,1500.00,1300.00,Pha Minh Duy,1
+82,may,Nike Pro Combat Compression Tank Top ,Nike,Tank Top,16 x 27,600.00,540.00,Buyer of idol,1
+83,may,Ecuador 2004-2006 Home Soccer Jersey ,Ecuador,Jersey,22 x 29.5,700.00,,,0
+84,may,Johnnie-O AOP Drifit Golf Polo Shirt ,Johnnie-O,Polo,23 x 31,600.00,,,0
+85,may,Under Armour Drifit Shirt ,Under Armour,Shirt,25 x 29,450.00,,,0
+86,may,Nike Golf Emerald Green Drifit Polo Shirt ,Nike,Polo,23.5 x 30 ,600.00,,,0
+87,may,Adidas Goalkeeper Football Jersey ,Adidas,Jersey,21.5 x 30.5,600.00,,,0
+88,may,Adidas Climacool Matrix Soccer Jersey ,Adidas,Jersey,18.5 x 28,700.00,,,0
+89,may,Adidas Real Madrid 2020-2021 Pink Soccer Jersey ,Adidas,Jersey,21.5 x 28,800.00,,,0
+90,may,Looney Tunes Taz Tasmanian Shirt ,Looney,Shirt,22 x 31,700.00,,,0
+91,may,Columbia Steens Half Snap Fleece Pullover ,Columbia,Pullover,27 x 30,700.00,,,0
+92,may,Nike Drifit Shirt ,Nike,Shirt,18.5 x 27.5,600.00,,,0
+93,june,Adidas Three Stripes Shorts ,Adidas,Shorts,34-38 x 21,300.00,300.00,Tito Romel,1
+94,june,MLB Yankees Hoodie ,Mlb,Hoodie,24 x 29,1100.00,1000.00,Reychi Jocson,1
+95,june,Nike Therma Fit Hoodie ,Nike,Hoodie,22 x 26,900.00,1000.00,Shaun Guiao,1
+96,june,Levis Checkered Flannel ,Levis,Flannel,22 x 30,800.00,800.00,Dexter Maneclang,1
+97,june,The North Face Quilted Jacket,The North Face,Jacket,21 x 26,1200.00,800.00,Buyer of idol,1
+98,june,Emporio Armani Joggers,Emporio,Pants,30-34 x 36 ,1300.00,,,0
+99,june,Quicksilver Big Logo Hoodie ,Quicksilver,Hoodie,24 x 27,800.00,,,0
+100,july,Calvin Klein Sweater ,Calvin,Sweater,23 x 26,500.00,500.00,Fritz Gerald,1
+101,july,DIckies Button Down White Polo ,Dickies,Polo,29 x 34,450.00,300.00,Sean,1
+102,july,Diesel Buttonfly Shorts ,Diesel,Shorts,36 x 22,600.00,500.00,mike ramos,1
+103,july,Lululemon Joggers for Womens ,Lululemon,Pants,32-34 x 38,600.00,500.00,me_zyl,1
+104,july,Ecko Unltd Joggers ,Ecko,Pants,40-42 x 44,600.00,,,0
+105,july,Nike Drifit Big Logo Hoodie,Nike,Hoodie,20 x 27,450.00,,,0
+106,july,GU Chinese Collar White Longsleeves,Gu,Longsleeves,24 x 32,600.00,,,0
+107,july,Patagonia Seabrook Skirt ,Patagonia,Skirt,30-32 x 21,600.00,,,0
+108,july,Callaway Navy Blue Colorway Golf Shorts,Callaway,Shorts,34 x 21.5,700.00,,,0
+109,august,Under Armour Drifit Polo Shirt Rubber Logo  ,Under Armour,Polo,22 x 29,700.00,500.00,azrah,1
+110,august,Under Armour Embroidered Logo Polo Shirt ,Under Armour,Polo,22 x 29,700.00,545.00,FB Buyer,1
+111,august,Painters Corduroy Vest ,Painters,Vest,24 x 25,450.00,,,0
+112,august,Kazah Multi Pocket Vest,Kazah,Vest,23 x 27,600.00,,,0
+113,september,Ralph Lauren Buttoned Down Stripes Longsleeves ,Ralph Lauren,Longsleeves,20 x 28,1600.00,1500.00,Sanz Gallardo,1
+114,september,Reebok NFL Oakland Raiders #20 McFadden Jersey ,Reebok,Jersey,29 x 34,900.00,800.00,Xpaolo Basco Herrera,1
+115,september,Nike Drifit Textured Green Golf Polo ,Nike,Polo,21 x 30,500.00,450.00,cpc04 - Carousell,1
+116,september,Under Armour Drifit Heatgear Black Shirt ,Under Armour,Shirt,20 x 27,500.00,500.00,jo ben ,1
+117,september,Under Armour Drifit Heatgear Maroon Shirt ,Under Armour,Shirt,22 x 25,500.00,500.00,jo ben ,1
+118,september,Under Armour Drifit Center Big Logo Shirt ,Under Armour,Shirt,22 x 29,500.00,500.00,Ameera Tarhatta ,1
+119,september,Under Armour Compression Shirt ,Under Armour,Shirt,17.5 x 26,500.00,406.00,fuq yu mean,1
+120,september,Vintage Reebok Michael Vick Atlanta Falcons Jersey ,Vintage,Jersey,19.5 x 30,900.00,600.00,Warren Nayre,1
+121,september,Stussy Black Worldtour Tee Shirt,Stussy,Shirt,18 x 24.5,800.00,,,0
+122,september,Umbro England Pro Training Rugby Jersey,Umbro,Jersey,22.5 x 29,800.00,,,0
+123,september,Vintage Nike Embroided Logo Tank Top ,Vintage,Tank Top,16.5 x 26.5,500.00,,,0
+124,september,Nike Drifit USA Polo Shirt ,Nike,Polo,21 x 28,500.00,,,0
+125,september,The North Face Windwall Hoodie ,The North Face,Hoodie,20 x 29,600.00,,,0
+126,october,Russell Athletic Gray Hoodie ,Russell,Hoodie,27 x 27,600.00,400.00,Buyer of idol,1
+127,october,Burberry Hoodie ,Burberry,Hoodie,19 x 25,1200.00,,,0
+128,october,Adidas Logo Spellout Sweater ,Adidas,Sweater,25 x 28,600.00,,,0
+129,october,Rick and Morty Knitted Sweater ,Rick,Sweater,24 x 26,600.00,,,0
+131,october,Nautica Buttoned Down  Longsleeves,Nautica,Longsleeves,25 x 30,500.00,,,0
+132,october,RVCA Buttoned Down Longsleeves ,Rvca,Longsleeves,20 x 26,500.00,500.00,Shaun Guiao,1
+133,october,Nautica Maroon Polo Shirt ,Nautica,Polo,22 x 29,400.00,400.00,Shaun Guiao,1
+134,october,Nautica Dark Cyan Polo Shirt,Nautica,Polo,20 x 29,600.00,,,0
+135,october,Uniqlo Kaws Shirt ,Uniqlo,Shirt,20 x 28,600.00,400.00,Buyer of idol,1
+136,october,Gymshark Tank Top ,Gymshark,Tank Top,19 x 28,500.00,500.00,Elijah Toledo,1
+137,october,Nike Standard Issue Sweatpants ,Nike,Pants,28-32 x 37 x 6.5,600.00,500.00,Win Policarpio,1
+138,october,Jack & Jones Denim Jeans,Jack,Pants,36 x 43 x 6.5,600.00,406.00,Buyer of idol,1
+139,october,Zara Man Trousers ,Zara,Pants,34 x 41 x 7,400.00,350.00,ermansacut,1
+140,october,Uniqlo U Baggy Pants,Uniqlo,Pants,34 x 41 x 8,500.00,200.00,Buyer of idol,1
+141,october,Uniqlo Navy Blue Heattech Trousers,Uniqlo,Pants,32 x 40 x 7.5,600.00,600.00,Shaun Guiao,1
+142,october,Uniqlo U Jeans,Uniqlo,Pants,34 x 40 x 8.5,500.00,500.00,Ryan Tayag,1
+143,november,Ralph Lauren Classic Linen Longsleeves ,Ralph Lauren,Longsleeves,21 x 28-31,1800.00,1100.00,FB Buyer,1
+144,november,Tune Squad Space Jam #1 Bugs Bunny Basketball Jersey ,Tune,Jersey,23 x 32-34,800.00,,,0
+145,november,Oakley Hydrolix Polo Shirt,Oakley,Polo,23 x 30.5,1300.00,1200.00,Tony Alonzo,1
+146,november,Jordan Spellout Shorts ,Jordan,Shorts,28-34 x 19.5,800.00,700.00,Christian Justine Pagaling,1
+147,november,Majestic Pitssburgh Pirates MLB Jersey ,Majestic,Jersey,24 x 31,600.00,500.00,Buyer of idol,1
+148,november,Khaki Multi Pocket Vest ,Khaki,Vest,23 x 26.5,600.00,,,0
+149,november,Foam Seven Multi Pocket Vest ,Foam,Vest,22 x 24,700.00,,,0
+150,november,Adidas Drive Heather Gray Golf Polo Shirt,Adidas,Polo,24 x 26.5,600.00,500.00,Tony Alonzo,1
+151,november,Adidas Real Madrid Mens Medium Pink Jersey ,Adidas,Jersey,20 x 28,1000.00,800.00,Tran Thi Thuy Linh,1
+152,november,Adidas Big Logo Graphic Shirt,Adidas,Shirt,24 x 28,500.00,500.00,mr.sjr,1
+153,november,Under Armour Heatgear Shirt ,Under Armour,Shirt,18.5 x 28,600.00,505.00,Fowaya S. Gil,1
+154,november,Under Armour Qualifier Run Half Zip ,Under Armour,Jacket,20 x 28,700.00,,,0
+155,november,Under Armour Tech Tee Shirt ,Under Armour,Shirt,21 x 27,500.00,500.00,Sum Sum,1
+156,november,Under Armour Heatgear Tank Top,Under Armour,Tank Top,22 x 29,500.00,,,0
+157,november,Nike Team Michigan State Spartan Jersey ,Nike,Jersey,21 x 29-30,600.00,,,0
+158,november,Nike #3 Forge Softball Jersey ,Nike,Jersey,20 x 27,500.00,,,0
+159,november,Nike NFL Las Vegas Raiders #17 Davante Adams Jersey ,Nike,Jersey,17 x 26,600.00,500.00,Warren Nayre,1
+160,november,Nike Drifit Victory Cyan Color Polo Shirt ,Nike,Polo,18.5 x 27.5,600.00,,,0
+161,november,Nike Red Men's Drifit Polo Shirt ,Nike,Polo,23 x 30,600.00,500.00,Tony Alonzo,1
+163,december,Ralph Lauren Classic Linen Longsleeves ,Ralph Lauren,Longsleeves,21 x 28-31,1800.00,1100.00,FB Buyer,1
+164,december,Tune Squad Space Jam #1 Bugs Bunny Basketball Jersey ,Tune,Jersey,23 x 32-34,800.00,,,0
+165,december,Oakley Hydrolix Polo Shirt ,Oakley,Polo,23 x 30.5,1300.00,1200.00,Tony Alonzo,1
+166,december,Jordan Spellout Shorts ,Jordan,Shorts,28-34 x 19.5,800.00,700.00,Christian Justine Pagaling,1
+167,december,Majestic Pitssburgh Pirates MLB Jersey,Majestic,Jersey,24 x 31,600.00,500.00,Buyer of idol,1
+168,december,Khaki Multi Pocket Vest,Khaki,Vest,23 x 26.5,600.00,,,0
+169,december,Foam Seven Multi Pocket Vest ,Foam,Vest,22 x 24,700.00,,,0
+170,december,Adidas Drive Heather Gray Golf Polo Shirt ,Adidas,Polo,24 x 26.5,600.00,500.00,Tony Alonzo,1
+171,december,Adidas Real Madrid Mens Medium Pink Jersey ,Adidas,Jersey,20 x 28,1000.00,800.00,Tran Thi Thuy Linh,1
+172,december,Adidas Big Logo Graphic Shirt ,Adidas,Shirt,24 x 28,500.00,500.00,mr.sjr,1
+173,december,Under Armour Heatgear Shirt ,Under Armour,Shirt,18.5 x 28,600.00,505.00,Fowaya S. Gil,1
+174,december,Under Armour Qualifier Run Half Zip ,Under Armour,Jacket,20 x 28,700.00,,,0
+175,december,Under Armour Tech Tee Shirt ,Under Armour,Shirt,21 x 27,500.00,500.00,Sum Sum,1
+176,december,Under Armour Heatgear Tank Top ,Under Armour,Tank Top,22 x 29,500.00,,,0
+177,december,Nike Team Michigan State Spartan Jersey ,Nike,Jersey,21 x 29-30,600.00,,,0
+178,december,Nike #3 Forge Softball Jersey ,Nike,Jersey,20 x 27,500.00,,,0
+179,december,Nike NFL Las Vegas Raiders #17 Davante Adams Jersey,Nike,Jersey,17 x 26,600.00,500.00,Warren Nayre,1
+180,december,Nike Drifit Victory Cyan Color Polo Shirt ,Nike,Polo,18.5 x 27.5,600.00,,,0
+181,december,Nike Red Men's Drifit Polo Shirt ,Nike,Polo,23 x 30,600.00,500.00,Tony Alonzo,1
